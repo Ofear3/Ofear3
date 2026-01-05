@@ -1,4 +1,5 @@
-[![Profile Visitors](https://visitcount.itsvg.in/api?id=Ofear3&icon=7&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Ofear3&color=blue)
+
 
 # 💫 About Me
 
