@@ -1,17 +1,19 @@
+[![Profile Visitors](https://visitcount.itsvg.in/api?id=Ofear3&icon=7&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me
-[![](https://visitcount.itsvg.in/api?id=ofear3&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 Hi there, I'm **Md. Saif Al Islam** 👋  
 
 I'm a passionate **Software Developer & Web Enthusiast** from Bangladesh.  
-I love building **clean, scalable, and user-friendly applications** that solve real-world problems.  
+I love building **clean, scalable, and user-friendly applications** that solve real-world problems.
 
 ---
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ofear03) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/whoissaif03) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofear)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofear) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/whoissaif03)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ofear03)
 
 ---
 
@@ -32,19 +34,14 @@ I love building **clean, scalable, and user-friendly applications** that solve r
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofear3&theme=radical&hide_border=false&include_all_commits=true&count_private=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ofear3&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofear3&theme=radical&hide_border=false&layout=compact&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ofear3&theme=radical&include_all_commits=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ofear3&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofear3&theme=radical&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ofear3&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
