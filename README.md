@@ -4,7 +4,7 @@
 # 💫 About Me
 
 
-Hi there, I'm **Md. Saif Al Islam** 👋  
+Hi there, I'm **Md. Saif Al Islam**  
 
 I'm a passionate **Software Developer & Web Enthusiast** from Bangladesh.  
 I love building **clean, scalable, and user-friendly applications** that solve real-world problems.
@@ -35,9 +35,7 @@ I love building **clean, scalable, and user-friendly applications** that solve r
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ofear3&theme=radical&include_all_commits=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ofear3&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofear3&theme=radical&layout=compact)
 
 ---
 
