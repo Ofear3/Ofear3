@@ -44,8 +44,6 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 ## 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/Ofear3)
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ofear3&theme=react-dark)
 
