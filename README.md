@@ -43,9 +43,9 @@ I enjoy solving real-world problems through code and continuously improving my d
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ofear3&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofear3&layout=compact&theme=radical)
+![Metrics](https://metrics.lecoq.io/Ofear3)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ofear3&theme=react-dark)
 
