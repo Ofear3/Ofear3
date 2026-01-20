@@ -20,10 +20,10 @@ I enjoy solving real-world problems through code and continuously improving my d
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin)](https://linkedin.com/in/ofear) &nbsp; &nbsp;
-[![Facebook](https://img.shields.io/badge/-Facebook-white?logo=facebook)](https://facebook.com/whoissaif03) &nbsp; &nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-white?logo=discord)](https://discord.gg/ofear03) &nbsp; &nbsp;
-[![Codeforces](https://img.shields.io/badge/-Codeforces-white?logo=codeforces)](https://codeforces.com/profile/Mohammad.Saif) &nbsp; &nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-orange?logo=linkedin)](https://linkedin.com/in/ofear) &nbsp; &nbsp;
+[![Facebook](https://img.shields.io/badge/-Facebook-orange?logo=facebook)](https://facebook.com/whoissaif03) &nbsp; &nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-orange?logo=discord)](https://discord.gg/ofear03) &nbsp; &nbsp;
+[![Codeforces](https://img.shields.io/badge/-Codeforces-orange?logo=codeforces)](https://codeforces.com/profile/Mohammad.Saif) &nbsp; &nbsp;
 
 
 ---
