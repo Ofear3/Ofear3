@@ -49,11 +49,11 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofear3&layout=compact&theme=radical" width="100%" height="30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofear3&layout=compact&theme=radical"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofear3&theme=radical" width="100%" height="30%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofear3&theme=radical"/>
 
 
 ---
