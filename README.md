@@ -47,13 +47,15 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ofear3&theme=react-dark)
 
-<br/>
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ofear3&layout=compact&theme=radical)
+<!-- Top Languages - full width -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofear3&layout=compact&theme=radical" width="100%" />
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ofear3&theme=radical)
+<!-- GitHub Streak - full width -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofear3&theme=radical" width="100%" />
 
 
 ---
