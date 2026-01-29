@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Ofear3&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ofear3&color=red)
 
 <h1 align="center">Mohammad Saif Al Islam</h1>
 
@@ -47,13 +47,17 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ofear3&theme=react-dark)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofear3&layout=compact&theme=radical"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofear3&layout=compact&theme=radical" />
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofear3&theme=radical"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ofear3&theme=radical" />
+</p>
 
 
 ---
